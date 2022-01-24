@@ -1,4 +1,4 @@
-<script>
+<script type="text/javascript">
     var DOMString = {
             loading: document.querySelector("#loading-svg"),
             checked: document.querySelector("#check-svg"),
